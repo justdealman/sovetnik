@@ -553,6 +553,21 @@ header .menu ul li a {
 .feedback .form button:active {
 	background:#33a6d0;
 }
+.feedback .form button.done {
+	color:#a1aabf;
+	background:#565e70;
+}
+.feedback .form h6 {
+	display:inline-block;
+	color:#ffffff;
+	font-size:14px;
+	line-height:18px;
+	font-weight:normal;
+	vertical-align:top;
+	padding:13px 0 12px 21px;
+	margin:0 0 20px 19px;
+	background:url('../img/done_icon.png') no-repeat left 16px;
+}
 .clear {
 	clear:both;
 	overflow:hidden;
